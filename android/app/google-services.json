@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "456509783979",
+    "project_id": "squadseeker-8f211",
+    "storage_bucket": "squadseeker-8f211.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456509783979:android:9a60561da1d591542b5cee",
+        "android_client_info": {
+          "package_name": "com.davidshahi.squad_seeker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCZM31uQgU5EV4mO12SUNBzhYjnqItGw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
